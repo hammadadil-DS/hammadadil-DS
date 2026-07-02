@@ -1,16 +1,57 @@
-## Hi there 👋
+#Hammad Adil
 
-<!--
-**hammadadil-DS/hammadadil-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Graduate · Integral University, Lucknow  |  Aspiring Data Analyst
 
-Here are some ideas to get you started:
+ Power BI   |   Python  |   SQL  |   Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+🚀 Projects
+
+📊 Customer Churn Analysis Dashboard
+
+Analyzed 3,000 customers with 40.5% churn rate. Identified that customers with tenure ≤12 months churn the most (51.91%) with actionable retention strategies.
+
+Power BI
+Python
+EDA
+
+
+
+👥 HR Analytics Dashboard
+
+Tracked 1,417 employees across 7 departments. Analyzed attrition by salary slab, gender, experience and job role — revealing a 16.30% attrition rate.
+
+Power BI
+DAX
+HR Analytics
+
+
+
+
+
+🏪 Retail Inventory & Demand Forecasting
+
+₹860M revenue analysis across 8 cities. 2-page dashboard with actual vs forecasted revenue modelling — predicting ₹408.20M for Jan–June 2026.
+
+Power BI
+Python
+Forecasting
+
+
+
+
+
+
+🛒 Superstore Sales Dashboard
+
+₹411M+ in total sales analyzed across regions, categories and segments with year-over-year comparisons for executive decision making.
+
+Power BI
+Excel
+Sales Analytics
+
+
+
+
