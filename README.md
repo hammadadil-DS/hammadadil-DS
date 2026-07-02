@@ -1,4 +1,4 @@
-#Hammad Adil
+ Hammad Adil
 
 BCA Graduate · Integral University, Lucknow  |  Aspiring Data Analyst
 
@@ -19,6 +19,10 @@ EDA
 
 
 
+
+
+
+
 👥 HR Analytics Dashboard
 
 Tracked 1,417 employees across 7 departments. Analyzed attrition by salary slab, gender, experience and job role — revealing a 16.30% attrition rate.
@@ -31,6 +35,9 @@ HR Analytics
 
 
 
+
+
+
 🏪 Retail Inventory & Demand Forecasting
 
 ₹860M revenue analysis across 8 cities. 2-page dashboard with actual vs forecasted revenue modelling — predicting ₹408.20M for Jan–June 2026.
@@ -38,6 +45,9 @@ HR Analytics
 Power BI
 Python
 Forecasting
+
+
+
 
 
 
