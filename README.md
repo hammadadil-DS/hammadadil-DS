@@ -1,6 +1,6 @@
  Hammad Adil
 
-BCA Graduate · Integral University, Lucknow  |  Aspiring Data Analyst
+BCA Graduate · Integral University, Lucknow  | Data Analyst
 
  Power BI   |   Python  |   SQL  |   Excel
 
